@@ -1,0 +1,2 @@
+#!/bin/bash
+mount -o noatime -t ext2 /dev/sda1 /opt
