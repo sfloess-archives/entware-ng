@@ -1,6 +1,6 @@
 #!/bin/sh
 
-media_dir="/opt/nas/media/Videos"
+media_dir="/opt/nas/media"
 
 
 if [ -z "$media_dir" ]; then
